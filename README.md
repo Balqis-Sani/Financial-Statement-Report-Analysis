@@ -80,3 +80,11 @@ The profit margin turned positive at 3.46%, a +115.48% improvement over 2023.
 May 2024 marked another key turning point, with MoM revenue growth jumping from 2.37% (April) to 7.13% (May). This reflected a revenue increase from $646K to $692.7K.
 Top revenue-generating clients in 2023 and 2024 were mostly SMBs, with monthly SaaS subscriptions being the leading revenue service line.
 In contrast, in 2022, the top client was Global Tech, and the most profitable service was Product License – Enterprise, indicating a shift in target market and strategy over time.
+
+### Recommendations
+- Maintain and optimize investments in the R&D and Customer Support departments, to sustain momentum and drive innovation.
+- Implement stronger budgeting and financial controls to reduce unnecessary overheads, particularly in G&A and Marketing, without affecting growth.
+- Double down on the SMB segment by tailoring offerings, pricing models, and customer success strategies specifically to this market.
+- Prioritize early-year investments and align quarterly plans with strategic goals, using data from prior years to guide decisions.
+- Continue expanding recurring revenue lines, but test new service offerings carefully to reduce dependence on a single stream.
+
