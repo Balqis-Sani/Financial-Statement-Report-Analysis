@@ -82,6 +82,7 @@ Top revenue-generating clients in 2023 and 2024 were mostly SMBs, with monthly S
 In contrast, in 2022, the top client was Global Tech, and the most profitable service was Product License – Enterprise, indicating a shift in target market and strategy over time.
 
 ### Recommendations
+---
 - Maintain and optimize investments in the R&D and Customer Support departments, to sustain momentum and drive innovation.
 - Implement stronger budgeting and financial controls to reduce unnecessary overheads, particularly in G&A and Marketing, without affecting growth.
 - Double down on the SMB segment by tailoring offerings, pricing models, and customer success strategies specifically to this market.
