@@ -57,22 +57,19 @@ Profit Margin = DIVIDE([Profit],[Actual Revenue])
 ```
 ### Results/Findings
 1. **Year 2022**: Foundation Year, Low Revenue, and Missed Investments.
-   
 Revenue in 2022 was the lowest across the three years, resulting in the greatest loss and a negative profit margin of -12.12%.
 Although revenue exceeded expenses from January to April, there were no recorded expenses for Customer Support or R&D, indicating a lack of investment in key growth areas.
 From June to December, expenses began to exceed revenue, likely due to increased spending in areas such as General & Administrative (G&A) and Sales & Marketing; possibly in an attempt to stimulate growth.
 Despite some effort to invest later in the year, the absence of early strategic spending may have contributed to the year’s poor financial performance.
 
-3. **Year 2023**: Investment Phase with Higher Revenue and Expenses.
-   
+2. **Year 2023**: Investment Phase with Higher Revenue and Expenses.
 Revenue nearly doubled (+92.12%) compared to 2022, signaling improved business traction.
 However, expenses also increased significantly (+109.61%), resulting in a higher loss and a profit margin of -22.33%, which is -84.21% lower than in 2022.
 Throughout all 12 months, expenses consistently exceeded revenue, suggesting the business was in a heavy investment phase.
 Major increases were observed across all spending classes i.e. G&A, R&D, Sales & Marketing, and Customer Support—indicating a more robust and holistic approach to scaling.
 A notable revenue spike occurred in June 2023, with MoM growth jumping from 2.03% (May) to 10.95% (June). This was due to a revenue increase from $469.5K to $520.9K.
 
-5. **Year 2024**: Growth and Return on Investment.
-
+3. **Year 2024**: Growth and Return on Investment.
 The business experienced a significant uplift in performance, generating $8.675M in revenue, which is +42.1% higher than in 2023.
 Revenue surpassed expenses, resulting in a net profit of $299.9K, representing a +122% increase from the previous year.
 The profit margin turned positive at 3.46%, a +115.48% improvement over 2023.
