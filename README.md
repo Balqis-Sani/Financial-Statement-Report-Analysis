@@ -56,6 +56,7 @@ Total Budget = SUM(BUDGET[BUDGET])
 Profit Margin = DIVIDE([Profit],[Actual Revenue])
 ```
 ### Results/Findings
+---
 1. **Year 2022**: Foundation Year, Low Revenue, and Missed Investments.
 
 Revenue in 2022 was the lowest across the three years, resulting in the greatest loss and a negative profit margin of -12.12%.
