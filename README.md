@@ -36,5 +36,19 @@ EDA involved exploring the dataset to answer the following questions:
 ### Data Analysis
 ---
 Some interesting DAX worked with in power BI include :
-``` Revenue MoM% = DIVIDE([Actual Revenue]-[REVENUE LM],[REVENUE LM])
+
+``` DAX
+Revenue MoM% = DIVIDE([Actual Revenue]-[REVENUE LM],[REVENUE LM])
+```
+```DAX
+Revenue Variance LY = CALCULATE('finances and profit'[Revenue Variance],DATEADD('DateTable'[Date],-1,YEAR))
+```
+```DAX
+PROFIT MoM% CHANGE = CALCULATE('finances and profit'[Profit],DATEADD(DateTable[Date],-1,MONTH))
+```
+```DAX
+Total Budget = SUM(BUDGET[BUDGET])
+```
+```DAX
+Profit Margin = DIVIDE([Profit],[Actual Revenue])
 ```
